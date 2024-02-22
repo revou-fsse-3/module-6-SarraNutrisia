@@ -25,7 +25,7 @@
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. This week, I have build a Simple Flask API to Managing A Zoo Using Python and it's dependencies.
 
 # Documentation API Link 🚀
-You can check the Documentation API by clicking this link : [Link Postman](https://branchweek10--remarkable-moxie-a10d78.netlify.app/) 
+You can check the Documentation API by clicking this link : [Link Postman](https://documenter.getpostman.com/view/29004934/2sA2rAzMxM) 
   
 ***
 
